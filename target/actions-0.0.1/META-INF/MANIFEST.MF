@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: Maven Jar Plugin 3.2.0
+Build-Jdk-Spec: 14
+Class-Path: kotlin-stdlib-jdk8-1.4.10.jar kotlin-stdlib-1.4.10.jar kotli
+ n-stdlib-common-1.4.10.jar annotations-13.0.jar kotlin-stdlib-jdk7-1.4.
+ 10.jar
+Main-Class: dk.cphbusiness.HelloKt
+

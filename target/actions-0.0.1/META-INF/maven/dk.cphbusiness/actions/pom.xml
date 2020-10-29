@@ -68,7 +68,7 @@
                             <addClasspath>true</addClasspath>
                         </manifest>
                         <manifestEntries>
-                            <Main-Class>dk.cphbusiness.Dk_cphbusiness_HelloKt</Main-Class>
+                            <Main-Class>dk.cphbusiness.HelloKt</Main-Class>
                         </manifestEntries>
                     </archive>
                 </configuration>
