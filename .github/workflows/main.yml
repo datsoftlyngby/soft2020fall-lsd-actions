@@ -22,5 +22,5 @@ jobs:
           docker build -t eguahlak/actions:0.0.1 .
       - name: Push Container
         run: |
-          docker push
+          docker push eguahlak/actions
 
