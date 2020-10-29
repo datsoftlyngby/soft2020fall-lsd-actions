@@ -1,5 +1,5 @@
 package dk.cphbusiness
 
 fun main() {
-    println("Hello World!")
+    println("Hello SOFT World!")
     }
